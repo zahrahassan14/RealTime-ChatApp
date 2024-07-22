@@ -1,0 +1,47 @@
+/* src/App.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+    .navbar a {
+        color: #fff;
+        text-decoration: none;
+        margin-right: 15px;
+    }
+
+.dashboard {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.login-form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.messages {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.todo-list {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Add more styles for other components as needed */
